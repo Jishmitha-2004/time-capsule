@@ -7,7 +7,7 @@
 
 > **"A bridge between today's thoughts and tomorrow's moments."**
 
-**Future Message** is a premium digital time capsule platform built on the MERN stack. It enables users to compose heartfelt messages, attach multimedia memories, and seal them in time. These capsules are automatically delivered to any email inbox on a specific future date, ensuring your most important words arrive exactly when they matter most.
+**Future Message** is a premium digital time capsule platform built on the MERN stack. It enables users to compose heartfelt messages, attach multimedia memories, and seal them in time. These capsules are automatically delivered to any email inbox on a specific future date, ensuring your most important words arrive exactly when they matter most.ab
 
 ---
 
