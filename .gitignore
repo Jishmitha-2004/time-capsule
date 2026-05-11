@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production / Build
+dist/
+client/dist/
+build/
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+.env.*.local
+server/.env
+client/.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local Testing Files
+server/delivered_emails/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Postman
+/TimeCapsule.postman_collection.json
